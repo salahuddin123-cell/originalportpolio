@@ -119,6 +119,9 @@ body{
     color:	rgb(0, 255, 157) ;
     font-size: 1.5em;
 }
+#q{
+    padding-right: 10px;
+}
 #q a{
     text-decoration: none;
 }
